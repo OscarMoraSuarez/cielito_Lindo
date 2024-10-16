@@ -1,0 +1,14 @@
+
+body{
+  height: 100vh; 
+  margin: 0;     
+  body {
+    height: 100vh; 
+    margin: 0;     
+    background-image: url(../assets/imagen_playa1.jpeg); /* Specify the correct file extension */
+    background-size: cover; /* Ensures the image covers the entire body */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+  }
+  
+}
